@@ -42,7 +42,7 @@ Utilize a Stream API para verificar se a lista contém algum número maior que 1
 
 Com a ajuda da Stream API, encontre o segundo número maior da lista e exiba o resultado no console.
 
-- Desafio 8 - Somar os dígitos de todos os números da lista:
+- Desafio 8 - Somar os dígitos de todos os números da lista: ✓
 
 Utilizando a Stream API, realize a soma dos dígitos de todos os números da lista e exiba o resultado no console.
 

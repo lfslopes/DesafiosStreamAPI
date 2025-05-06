@@ -5,13 +5,12 @@ public class Desafio14 {
         int primo = Lista.numeros.
                     stream().
                     filter(num -> {
-                        boolean ePrimo = true;
                         for (int i = 2; i < num; i++) {
                             if (num % i == 0) {
-                                ePrimo = false;
+                                return false;
                             }
                         }
-                        return ePrimo;
+                        return true;
                     }).
                     sorted(Comparator.reverseOrder()).toList().
                     getFirst();

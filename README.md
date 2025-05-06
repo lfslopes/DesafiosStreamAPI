@@ -70,7 +70,7 @@ Utilize a Stream API para filtrar os números que estão dentro de um intervalo 
 
 Com a Stream API, encontre o maior número primo da lista e exiba o resultado no console.
 
-- Desafio 15 - Verifique se a lista contém pelo menos um número negativo:
+- Desafio 15 - Verifique se a lista contém pelo menos um número negativo: ✓
 
 Utilizando a Stream API, verifique se a lista contém pelo menos um número negativo e exiba o resultado no console.
 

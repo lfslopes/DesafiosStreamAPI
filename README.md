@@ -82,7 +82,7 @@ Utilize a Stream API para agrupar os números em duas listas separadas, uma cont
 
 Com a ajuda da Stream API, filtre os números primos da lista e exiba o resultado no console.
 
-- Desafio 18 - Verifique se todos os números da lista são iguais:
+- Desafio 18 - Verifique se todos os números da lista são iguais: ✓
 
 Utilizando a Stream API, verifique se todos os números da lista são iguais e exiba o resultado no console.
 

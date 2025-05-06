@@ -66,7 +66,7 @@ Com a ajuda da Stream API, encontre o produto de todos os números da lista e ex
 
 Utilize a Stream API para filtrar os números que estão dentro de um intervalo específico (por exemplo, entre 5 e 10) e exiba o resultado no console.
 
-- Desafio 14 - Encontre o maior número primo da lista:
+- Desafio 14 - Encontre o maior número primo da lista: ✓
 
 Com a Stream API, encontre o maior número primo da lista e exiba o resultado no console.
 

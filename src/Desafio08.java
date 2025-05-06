@@ -4,7 +4,7 @@ import java.util.function.ToIntFunction;
 //pegar cada dígito isolado dos números na lista e somá-los.
 public class Desafio08 {
     public static void main(String[] args) {
-        ToIntFunction<Integer> separarDigitos = new ToIntFunction<Integer>() {
+        ToIntFunction<Integer> separarDigitos = new ToIntFunction<>() {
             @Override
             public int applyAsInt(Integer value) {
                 if (value < 10)

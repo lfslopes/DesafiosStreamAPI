@@ -58,7 +58,7 @@ Utilize a Stream API para agrupar os valores ímpares múltiplos de 3 ou de 5 e 
 
 Utilizando a Stream API, encontre a soma dos quadrados de todos os números da lista e exiba o resultado no console.
 
-- Desafio 12 - Encontre o produto de todos os números da lista:
+- Desafio 12 - Encontre o produto de todos os números da lista: ✓
 
 Com a ajuda da Stream API, encontre o produto de todos os números da lista e exiba o resultado no console.
 

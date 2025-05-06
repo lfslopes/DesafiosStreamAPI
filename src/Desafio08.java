@@ -17,8 +17,9 @@ public class Desafio08 {
                 return soma;
             }
         };
-        int soma = Lista.numeros.stream()
-                .mapToInt(separarDigitos).sum();
+        int soma = Lista.numeros.stream().
+                mapToInt(separarDigitos).
+                sum();
         System.out.println(soma);
     }
 }

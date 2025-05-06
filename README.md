@@ -62,7 +62,7 @@ Utilizando a Stream API, encontre a soma dos quadrados de todos os números da l
 
 Com a ajuda da Stream API, encontre o produto de todos os números da lista e exiba o resultado no console.
 
-- Desafio 13 - Filtrar os números que estão dentro de um intervalo:
+- Desafio 13 - Filtrar os números que estão dentro de um intervalo: ✓
 
 Utilize a Stream API para filtrar os números que estão dentro de um intervalo específico (por exemplo, entre 5 e 10) e exiba o resultado no console.
 

@@ -78,7 +78,7 @@ Utilizando a Stream API, verifique se a lista contém pelo menos um número nega
 
 Utilize a Stream API para agrupar os números em duas listas separadas, uma contendo os números pares e outra contendo os números ímpares da lista original, e exiba os resultados no console.
 
-- Desafio 17 - Filtrar os números primos da lista:
+- Desafio 17 - Filtrar os números primos da lista: ✓
 
 Com a ajuda da Stream API, filtre os números primos da lista e exiba o resultado no console.
 

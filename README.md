@@ -30,7 +30,7 @@ Com a ajuda da Stream API, verifique se todos os números da lista são positivo
 
 Utilize a Stream API para remover os valores ímpares da lista e imprima a lista resultante no console.
 
-- Desafio 5 - Calcule a média dos números maiores que 5:
+- Desafio 5 - Calcule a média dos números maiores que 5: ✓
 
 Com a Stream API, calcule a média dos números maiores que 5 e exiba o resultado no console.
 

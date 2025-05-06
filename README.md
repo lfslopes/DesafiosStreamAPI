@@ -38,7 +38,7 @@ Com a Stream API, calcule a média dos números maiores que 5 e exiba o resultad
 
 Utilize a Stream API para verificar se a lista contém algum número maior que 10 e exiba o resultado no console.
 
-- Desafio 7 - Encontrar o segundo número maior da lista:
+- Desafio 7 - Encontrar o segundo número maior da lista: ✓
 
 Com a ajuda da Stream API, encontre o segundo número maior da lista e exiba o resultado no console.
 

@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class Desafio04 {
     public static void main(String[] args) {
         Lista.numeros = Lista.numeros.
